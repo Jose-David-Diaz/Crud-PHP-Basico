@@ -10,6 +10,7 @@ Base de datos: MySQL, sistema de gestión de bases de datos relacional.
 Estructura: HTML, siglas en inglés de HyperText Markup Language (‘lenguaje de marcado de hipertexto’), hace referencia al lenguaje de marcado para la elaboración de páginas web.
 
 Diseño: Bootstrap, biblioteca multiplataforma o conjunto de herramientas de código abierto para diseño de sitios y aplicaciones web.
+
 Cuenta con funciones básicas como:
 
 •	Crear
