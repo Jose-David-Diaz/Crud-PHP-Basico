@@ -15,7 +15,7 @@ Cuenta con funciones básicas como:
 •	Crear
 •	Leer
 •	Actualizar
-•	Borra
+•	Borrar
 
 Para probar el código, seguir los siguientes pasos:
 
